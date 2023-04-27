@@ -1,1 +1,1 @@
-# AngelaYuWebDevelopmentBootcamp-Section6-MemePosterWebsite
+# Project Section 6 - Meme Poster Website
